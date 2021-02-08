@@ -28,7 +28,7 @@ class EditModalContainer extends Component {
       setTimeout(() => {
         this.props.contentActions.resetUpdateRecordDetails();
         this.closeModal();
-      }, 2500);
+      }, 500);
     }
 
     if (

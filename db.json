@@ -21,9 +21,9 @@
     {
       "id": "501878235064259854",
       "rating": "F",
-      "effect": "client-driven",
-      "efficacy": 2,
-      "consensus": 37,
+      "effect": "Client-driven",
+      "efficacy": "2",
+      "consensus": "37",
       "comments": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",
       "no_of_studies": 85
     },
@@ -40,8 +40,8 @@
       "id": "201975320425002",
       "rating": "S",
       "effect": "Distributed",
-      "efficacy": 1,
-      "consensus": 9,
+      "efficacy": "1",
+      "consensus": "9",
       "comments": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",
       "no_of_studies": 92
     },
